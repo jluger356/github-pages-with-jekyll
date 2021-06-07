@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "THis is a website ... now what?"
 ---
 
 I'm glad you are here. I plan to talk about ...
