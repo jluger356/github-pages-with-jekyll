@@ -1,6 +1,5 @@
-title: This awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Joe Lugers website
+email: jvluger@buffalo.edu
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -10,5 +9,6 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+linkedin: joe-luger-893039193
 
 show_excerpts: true # set to false to remove excerpts on the homepage
