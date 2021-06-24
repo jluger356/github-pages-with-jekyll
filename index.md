@@ -1,5 +1,6 @@
 ---
-title: "THis is a website ... now what?"
+title: "So...this is a website ... now what?"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hey there, glad you've found my website! Allow me to introduce myself. 
+I am Joe Luger, a senior pursuing a bachelors in aerospace engineering from The State University of New York. 
